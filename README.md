@@ -26,7 +26,8 @@
 
 ## 🚀 Resultados  
 
-- 📘 **E-book em PDF**: [Mini E-book Inteligência Artificial no Dia a Dia] Ebook_Inteligencia_Artificial.pdf
+- 📘 **E-book em PDF**: [Mini E-book Inteligência Artificial no Dia a Dia] https://github.com/SEU-USUARIO/NOME-REPOSITORIO/blob/main/Ebook_Inteligencia_Artificial.pdf
+ 
 
 - 🖼️ **Imagem de capa**:  
 
