@@ -25,8 +25,9 @@
 
 
 ## 🚀 Resultados  
+[Ebook_Inteligencia_Artificial.pdf](https://github.com/user-attachments/files/22470804/Ebook_Inteligencia_Artificial.pdf)
 
-- 📘 **E-book em PDF**: [Mini E-book Inteligência Artificial no Dia a Dia] https://github.com/SEU-USUARIO/NOME-REPOSITORIO/blob/main/Ebook_Inteligencia_Artificial.pdf
+- 📘 **E-book em PDF**: [Mini E-book Inteligência Artificial no Dia a Dia] 
  
 
 - 🖼️ **Imagem de capa**:  
